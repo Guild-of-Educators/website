@@ -6,19 +6,21 @@ site_name = "Guild of Educators"
 
 # copyright = "Copyright &copy; 2026 Your name"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/Guild-of-Educators/website"
+repo_name = "Guild-of-Educators/website"
 # edit_uri = "edit/main/docs/"
 
 nav = [
   { "Guild of Educators" = "index.md" },
   { "Resources" = [
     "resources/index.md",
+    "resources/contributing.md",
   ] },
   { "Events" = [
     "events/index.md",
   ] },
   { "Get Involved" = "get-involved.md" },
+  { "Code of Conduct" = "code-of-conduct.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]

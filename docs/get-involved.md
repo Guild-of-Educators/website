@@ -8,8 +8,8 @@ The Guild is run by its members. There's plenty to do, and help of any size is w
 
 ## Where we need help
 
-- **Recommend resources.** Know a book, course, or tutorial that made you a better educator? Tell us about it so we can add it to the [Resources](resources/index.md) page.
-- **Write up resources.** Some resource pages still need a description and an explanation of why we recommend them. If you've used one, help us fill it in.
+- **Recommend resources.** Know a book, course, or tutorial that made you a better educator? Tell us about it so we can add it to the [Resources](resources/index.md) page. See [Contributing Resources](resources/contributing.md) for how.
+- **Write up resources.** Some resource pages still need a description and an explanation of why we recommend them. If you've used one, help us fill it in. [Here's how](resources/contributing.md#improving-an-existing-resource).
 - **Help run events.** Join the [Reading Club](events/index.md), lead a discussion, or help organise future events.
 
 ## Got your own idea?
