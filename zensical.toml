@@ -1,6 +1,6 @@
 [project]
 site_url = "https://www.example.com/"
-site_name = "Documentation"
+site_name = "Guild of Educators"
 # site_description = "Your project description"
 # site_author = "Your name"
 
@@ -12,6 +12,13 @@ site_name = "Documentation"
 
 nav = [
   { "Guild of Educators" = "index.md" },
+  { "Resources" = [
+    "resources/index.md",
+  ] },
+  { "Events" = [
+    "events/index.md",
+  ] },
+  { "Get Involved" = "get-involved.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -84,6 +91,10 @@ toggle.name = "Switch to system preference"
 # [[project.extra.social]]
 # icon = "fontawesome/brands/mastodon"
 # link = "https://fosstodon.org/@user"
+
+# Tags are used to categorise resources. Add `tags:` to a page's frontmatter,
+# and pages with the tags listing directive will list it automatically.
+[project.plugins.tags]
 
 [project.markdown_extensions]
 abbr = {}
