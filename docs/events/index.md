@@ -7,3 +7,7 @@ icon: lucide/calendar
 ## Reading Club: Big Book of Computing Pedagogy
 
 We're reading [The Big Book of Computing Pedagogy](../resources/big-book-of-computing-pedagogy.md) together.
+
+## Calendar
+
+See the [events calendar](calendar.md) for dates and times, or subscribe so events show up in your own calendar.

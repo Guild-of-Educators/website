@@ -18,6 +18,7 @@ nav = [
   ] },
   { "Events" = [
     "events/index.md",
+    "events/calendar.md",
   ] },
   { "Get Involved" = "get-involved.md" },
   { "Code of Conduct" = "code-of-conduct.md" },
