@@ -1,6 +1,6 @@
 # Guild of Educators Website 
 
-This website is a work in progress, it is not yet live.
+This is the source for [guildofeducators.org](https://guildofeducators.org/). Changes pushed to `main` are deployed automatically to GitHub Pages.
 
 ## Local development 
 
